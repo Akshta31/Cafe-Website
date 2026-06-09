@@ -4,6 +4,7 @@ A single-page React (Vite) café website featuring a browsing menu and a multi-s
 
 ## Features
 
+
 - **Navigation**: Home, Menu, Order, About, Contact (fixed top nav + footer)
 - **Menu**: Category tabs + search + “Add to Cart”
 - **Ordering**:
