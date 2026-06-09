@@ -16,7 +16,6 @@ A single-page React (Vite) café website featuring a browsing menu and a multi-s
 - **About + Contact**: Café story, values/team, and a simple contact form
 
 ## Tech Stack
-
 - React ^19
 - Vite ^7
 - ESLint (for linting)
