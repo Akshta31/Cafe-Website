@@ -1,5 +1,4 @@
 # Dusk & Brew (Cafe Website)
-
 A single-page React (Vite) café website featuring a browsing menu and a multi-step ordering flow (cart → details → payment → confirmation).
 
 ## Features
