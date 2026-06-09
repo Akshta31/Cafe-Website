@@ -3,7 +3,6 @@
 A single-page React (Vite) café website featuring a browsing menu and a multi-step ordering flow (cart → details → payment → confirmation).
 
 ## Features
-
 - **Navigation**: Home, Menu, Order, About, Contact (fixed top nav + footer)
 - **Menu**: Category tabs + search + “Add to Cart”
 - **Ordering**:
