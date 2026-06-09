@@ -49,7 +49,6 @@ npm run preview
 ```
 
 ### 5) Lint
-
 ```bash
 npm run lint
 ```
