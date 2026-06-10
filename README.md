@@ -17,6 +17,7 @@ A single-page React (Vite) café website featuring a browsing menu and a multi-s
 - Vite ^7
 - ESLint (for linting)
 
+
 ## Getting Started
 
 ### 1) Install dependencies
