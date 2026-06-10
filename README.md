@@ -18,8 +18,6 @@ A single-page React (Vite) café website featuring a browsing menu and a multi-s
 - ESLint (for linting)
 
 ## Getting Started
-
-
 ### 1) Install dependencies
 
 ```bash
