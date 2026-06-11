@@ -56,6 +56,7 @@ npm run lint
 - `public/` – Static assets
 - `src/assets/` – Image/SVG assets
 
+
 ## Notes
 - Styling is largely inline in `App.jsx`, with global font styling injected via a `<style>` tag.
 - The “ordering” and “payment” steps are UI-only (no backend integration).
