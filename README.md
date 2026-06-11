@@ -49,6 +49,7 @@ npm run preview
 npm run lint
 ```
 
+
 ## Project Structure (high level)
 - `src/App.jsx` – Main app + all page components (Home, Menu, Order, About, Contact) and cart/order state
 - `index.html` – Vite entry HTML
